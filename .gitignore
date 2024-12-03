@@ -1,0 +1,4 @@
+*.pptx
+*.txt
+unzipped/
+err*.log
